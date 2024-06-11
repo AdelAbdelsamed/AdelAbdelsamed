@@ -1,6 +1,6 @@
 # About Me
 
-Hello! I'm Adel Abdelsamed, an electrical engineering enthusiast with a passion for systems and control theory. I am currently pursuing my master's degree with a focus on the intersection between data-driven control and modern control theory.
+Hello! I'm Adel Abdelsamed, an electrical engineering enthusiast with a passion for systems and control theory. I am currently pursuing my master's degree with a focus on the intersection between data-driven control and modern control theory. I occasionally upload university courses that are well-maintained and when my schedule permits.
 
 ## Education
 
@@ -13,6 +13,11 @@ Hello! I'm Adel Abdelsamed, an electrical engineering enthusiast with a passion 
 - Master of Science in Electrical Engineering, Specialization in System and Automation - [RWTH Aachen University](https://www.rwth-aachen.de/)
   - Expected Graduation: 2025
   - Research focus: Systems and Control Theory, Data-Driven Control, Machine Learning, Reinforcement Learning
+ 
+- Master of Science in Sytsem, Control and Robotics - [Kungliga Tekniska Högskola (KTH)](https://www.kth.se/)
+  - Top Industrial Managers in Engineering (T.I.M.E) Double-Degree-Program
+  - Expected Graduation: 2025
+  - Research focus: Robotics, Systems and Control Theory, Data-Driven Control, Machine Learning, Reinforcement Learning
 
 ## Interests
 
