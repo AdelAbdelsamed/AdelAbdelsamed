@@ -1,6 +1,6 @@
 # About Me
 
-Hello! I'm Adel Abdelsamed, an electrical engineering enthusiast with a passion for systems and control theory. I am currently pursuing my master's degree with a focus on the intersection between data-driven control and modern control theory. I occasionally upload coursework of university courses that are well-maintained and when my schedule permits.
+Hello! I'm Adel Abdelsamed, an electrical engineering enthusiast with a passion for systems and control theory. I am currently pursuing my master's degree with a focus on the intersection between data-driven control and modern control theory. I occasionally upload coursework of university courses and other projects that are well-maintained and when my schedule permits.
 
 ## Education
 
